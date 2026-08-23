@@ -2,6 +2,14 @@
 
 个人 OpenClash 订阅转换模板。它只保存策略组和分流规则，不包含机场订阅地址、节点、密码、内网地址或控制面板密钥。
 
+## 模板地址
+
+```text
+https://raw.githubusercontent.com/lilun24181/openclash-custom-template/main/OpenClash-Huayu.ini
+```
+
+[查看模板文件](https://github.com/lilun24181/openclash-custom-template/blob/main/OpenClash-Huayu.ini)
+
 ## 使用
 
 1. 在 OpenClash 的“配置订阅”页面编辑机场订阅。
