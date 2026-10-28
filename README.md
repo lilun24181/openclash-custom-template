@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/lilun24181/openclash-custom-template/main/Open
 
 - ChatGPT、Claude、Gemini、Copilot、HeyGen：`AI专用-自动`
 - Meta AI、Perplexity：`AI专用-自动`
+- `AI专用-自动` 只筛选美国和新加坡节点，保留 ChatGPT 连通性检测及 120 秒检测间隔。
 - GitHub、Telegram、流媒体和国外网站：自动节点
 - TikTok、Apple、Microsoft、Steam 下载、NVIDIA 下载和中国大陆流量：直连
 - NVIDIA 登录、机场面板：国外代理
